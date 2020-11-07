@@ -3,6 +3,10 @@
 ## Project setup
 ```
 npm install
+
+to update the package.json file
+`$ npx npm-check-updates -u`
+`$ npm install`
 ```
 
 ### Compiles and hot-reloads for development
